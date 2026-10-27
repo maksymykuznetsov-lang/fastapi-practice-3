@@ -1,0 +1,11 @@
+# uv
+.venv
+uv.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm
+.idea/
